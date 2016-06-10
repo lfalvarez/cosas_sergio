@@ -1,0 +1,34 @@
+##########
+####CB####
+##########
+(Desde fondo hacia arriba)
+(0 0 1  ANCLAJE
+ 1 1 1  ENLACE
+ 0 2 1  BOYA)
+###### #### ######
+##CB## #N°# #DEF.#
+X#Y#Z# #### ######
+0 0 1  #0   ANCLAJE
+1 1 1  #1   CADENA CG
+1 1 1  #2   CADENA FIN
+1 1 1  #3   CDMS AR CG
+1 1 1  #4   BENTHOS 1 CG
+1 1 1  #5   BENTHOS 2 CG
+1 1 1  #6   BENTHOS 3 CG
+1 1 1  #7   BENTHOS 4 CG
+1 1 1  #8   BENTHOS 5 CG
+1 1 1  #9   BENTHOS 6 CG
+1 1 1  #10  BENTHOS 7 CG
+1 1 1  #11  BENTHOS 8 CG
+1 1 1  #12  BENTHOS 9 CG
+1 1 1  #13  BENTHOS 10 CG
+1 1 1  #14  KEVLAR 1 CG
+1 1 1  #15  CDMS CM 1 CG
+1 1 1  #16  KEVLAR 2 CG
+1 1 1  #17  CDMS CM 2 CG
+1 1 1  #18  KEVLAR 3 CG
+1 1 1  #19  CDMS CM 3 CG
+1 1 1  #20  CDMS CM 3 FIN
+1 1 1  #21  CABLE CG
+1 1 1  #22  CABLE FIN
+0 2 1  #23  BOYA CG

@@ -1,0 +1,34 @@
+###############
+#####NODOS#####
+###############
+(Desde fondo hacia arriba)
+(X = POSICIÓN X[m]
+ Y = POSICIÓN Y[m]
+ Z = POSICIÓN Z[m])
+########## #### ######
+#POSICIÓN# #N°# #DEF.#
+X##Y##Z### #### ######
+0. 0. 0.     #0  ANCLAJE
+0. 0. 2.4    #1  CADENA CG
+0. 0. 4.8    #2  CADENA FIN
+0. 0. 6.8    #3  CDMS AR CG
+0. 0. 7.055  #4  BENTHOS 1 CG
+0. 0. 7.565  #5  BENTHOS 2 CG
+0. 0. 8.075  #6  BENTHOS 3 CG
+0. 0. 8.585  #7  BENTHOS 4 CG
+0. 0. 9.095  #8  BENTHOS 5 CG
+0. 0. 9.605  #9  BENTHOS 6 CG
+0. 0. 10.115 #10 BENTHOS 7 CG
+0. 0. 10.625 #11 BENTHOS 8 CG
+0. 0. 11.135 #12 BENTHOS 9 CG
+0. 0. 11.645 #13 BENTHOS 10 CG
+0. 0. 118.35 #14 KEVLAR 1 CG
+0. 0. 225.8  #15 CDMS CM 1 CG
+0. 0. 275.8  #16 KEVLAR 2 CG
+0. 0. 325.8  #17 CDMS CM 2 CG
+0. 0. 375.8  #18 KEVLAR 3 CG
+0. 0. 425.8  #19 CDMS CM 3 CG
+0. 0. 426.8  #20 CDMS CM 3 FIN
+0. 0. 431.8  #21 CABLE CG
+0. 0. 438.8  #22 CABLE FIN
+0. 0. 437.4  #23 BOYA CG
